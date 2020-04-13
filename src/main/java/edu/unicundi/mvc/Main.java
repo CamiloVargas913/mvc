@@ -10,8 +10,8 @@ import modelo.Modelo;
 import vista.Vista;
 
 /**
- *
- * @author PROFESIONAL
+ * Clase main del programa
+ * @author Juan Camilo Vargas
  */
 public class Main {
 

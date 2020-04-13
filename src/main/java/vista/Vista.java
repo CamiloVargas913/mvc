@@ -6,13 +6,13 @@
 package vista;
 
 /**
- *
- * @author PROFESIONAL
+ * Clase principal de la vista que hereda de Java Swing
+ * @author Juan Camilo Vargas
  */
 public class Vista extends javax.swing.JFrame {
 
     /**
-     * Creates new form view1
+     * Constructor principal de la vista
      */
     public Vista() {
         initComponents();
